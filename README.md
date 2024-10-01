@@ -1,5 +1,5 @@
 ﻿# Call-of-Monitoring
- ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-green) ![Python 3.9](https://img.shields.io/badge/Python-3.9-yellow) ![Telegram](https://img.shields.io/badge/Telegram-blue)
+ ![Version 1.0.0](https://img.shields.io/badge/Version-1.0.0-green) ![Python 3.9](https://img.shields.io/badge/Python-3.9-yellow) ![Telegram](https://img.shields.io/badge/Telegram-bot-blue)
 ## Описание проекта
 Проект представляет собой бота для Telegram, который собирает информацию о системе и отправляет её в указанный чат. Бот использует библиотеку telebot для взаимодействия с API Telegram и subprocess для выполнения команд системы.
 ## Установка
